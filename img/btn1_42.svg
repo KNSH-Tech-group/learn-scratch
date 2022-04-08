@@ -1,0 +1,108 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="108px" height="31px" viewBox="0 0 108 31">
+<defs>
+<g id="_____3_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M -1.05 -0.95
+L -1.05 30.65 106.95 30.65 106.95 -0.95 -1.05 -0.95 Z"/>
+</g>
+
+<g id="_____6_Layer0_0_FILL">
+<path fill="#38BE49" stroke="none" d="
+M 106.05 14.45
+Q 106.05 8.45 101.85 4.2 97.65 0.05 91.65 0.05
+L 14.5 0.05
+Q 8.5 0.05 4.3 4.2 0.05 8.45 0.05 14.45
+L 0.05 15.35
+Q 0.05 21.35 4.3 25.55 8.5 29.8 14.5 29.8
+L 91.65 29.8
+Q 97.65 29.8 101.85 25.55 106.05 21.35 106.05 15.35
+L 106.05 14.45 Z"/>
+</g>
+
+<g id="___1____0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 21.4 -1.05
+L 10.05 -1.05
+Q 5.25 -1.05 1.85 2.35 -1.55 5.75 -1.55 10.55 -1.55 15.35 1.85 18.75 5.25 22.15 10.05 22.15
+L 15.9 22.15
+Q 16 22.15 16.1 22.15
+L 21.4 22.15
+Q 26.15 22.15 29.6 18.75 33 15.35 33 10.55 33 5.75 29.6 2.35 26.15 -1.05 21.4 -1.05 Z"/>
+</g>
+
+<path id="_____6_Layer0_0_1_STROKES" stroke="#1A9129" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 101.85 4.2
+Q 97.65 0.05 91.65 0.05
+L 14.5 0.05
+Q 8.5 0.05 4.3 4.2 0.05 8.45 0.05 14.45
+L 0.05 15.35
+Q 0.05 21.35 4.3 25.55 8.5 29.8 14.5 29.8
+L 91.65 29.8
+Q 97.65 29.8 101.85 25.55 106.05 21.35 106.05 15.35
+L 106.05 14.45
+Q 106.05 8.45 101.85 4.2 Z"/>
+
+<path id="___1____0_Layer0_0_1_STROKES" stroke="#1A9129" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 10.05 -1.05
+Q 5.25 -1.05 1.85 2.35 -1.55 5.75 -1.55 10.55 -1.55 15.35 1.85 18.75 5.25 22.15 10.05 22.15
+L 15.9 22.15
+Q 16 22.15 16.1 22.15
+L 21.4 22.15
+Q 26.15 22.15 29.6 18.75 33 15.35 33 10.55 33 5.75 29.6 2.35 26.15 -1.05 21.4 -1.05
+L 10.05 -1.05 Z"/>
+
+<font horiz-adv-x="2048">
+<!--  字体名称: 微軟正黑體 Bold
+供应商 ID: MS  
+© 2016 Microsoft Corporation. All rights reserved.
+http://www.microsoft.com/typography/fonts
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=MS&Name=微軟正黑體&PSName=MicrosoftJhengHeiBold&applanguage=zh_CN-->
+<font-face font-family="HelveticaNeue_Regular" units-per-em="2048" ascent="2203" descent="521"/>
+
+<glyph unicode="/" horiz-adv-x="904" d="
+M 923 1549
+L 176 -257 -38 -257 707 1549 923 1549 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 1.05,0.95) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_____3_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -0.05,-0.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_____6_Layer0_0_FILL"/>
+
+<use xlink:href="#_____6_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 5.95,4.3) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#___1____0_Layer0_0_FILL"/>
+
+<use xlink:href="#___1____0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 69,4.3) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#___1____0_Layer0_0_FILL"/>
+
+<use xlink:href="#___1____0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 49.85,3.95) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="10.2" height="23.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="16.05" baseline-shift="0%" kerning="auto" font-family="HelveticaNeue_Regular" font-size="18" fill="#FFFFFF" xml:space="preserve">/</tspan></text>
+</g>
+</g>
+</g>
+</svg>

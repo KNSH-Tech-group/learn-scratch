@@ -1,0 +1,595 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html, body {
+    height: 100%;
+    font-size: 16px;
+}
+body {
+    background-color: #fff;
+    font-family: "Microsoft JhengHei", "Helvetica Neue", Helvetica, sans-serif;
+/* overflow: hidden; */}
+/* 内容根容器 */
+#blocklyDiv {
+    /* height: 95%;
+    width: 90%; */
+    /* height: 98vh; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+#blocklyDiv:nth-child(n){
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+#blocklyDiv:nth-child(2){
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+.size-w90{
+    width: 90%;
+}
+.theme-bg-blue{
+    background-color: rgb(77, 151, 255);
+}
+.app-fullfill {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.disable {
+    -webkit-filter: grayscale(100%);
+    -webkit-filter: grayscale(1);
+    filter: grayscale(100%);
+    filter: gray;
+    pointer-events: none;
+}
+.top-fixed {
+    position: fixed;
+    top: 0px;
+}
+.bottom-fixed {
+    position: fixed;
+    bottom: 0px;
+
+}
+/* pc端app區域 */
+.gui{
+    position: absolute;
+    top: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    min-width: 1280px;
+    min-height: 720px;
+}
+
+
+
+/* 網頁刊頭 */
+.site-nav{
+    width: 100%;
+    height: 7.25em;  
+    /* border-bottom: 1px solid #eee; */
+    display: flex;
+    flex-direction: row;
+    /* flex-flow: row nowrap; */
+    justify-content: center;
+    box-sizing: border-box;
+    box-shadow: 0em 0.5em 0.5em #888888;
+    z-index: 99;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-box-pack: justify;
+}
+
+.site-nav .site-nav-bd {
+    margin: 0 auto;
+    /* width: 770px; */
+    height: inherit;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    font-size: 2em;
+    
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-box-pack: start;
+    -webkit-box-align: center;
+    -webkit-box-flex: 1;
+}
+/* clear */
+.site-nav .site-nav-bd:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+/* 版權信息 */
+.site-footer{
+    height: 1.5625em;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1.125em;
+    font-weight: 500;
+    bottom: 0em;
+}
+/* 主頁面 */
+.injectionDiv {
+    margin: auto;
+    /* position: relative; */
+    /* overflow: hidden; */
+    min-height: 60vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.injectionDiv.mobile {
+    display: block;
+    flex-direction: column;
+    padding-top:7.25em;
+}
+
+.moreMenuDiv{
+    display: flex;
+    width: 80%;
+    height: 95vh;
+}
+.more{
+    position: absolute;
+    left: 2em;
+    top: 2em;
+    width: 4em;
+    height: 4em;
+}
+.more img {
+    width: 100%;
+    height: 100%;
+}
+/* 主選單容器 */
+.scratchMenu {
+    position: absolute;
+    padding-top: 96px;width: 96%;
+    height: 100%;
+    min-height: 800px;
+    /* background-color: yellow; */
+    display: flex;
+    /* display: none; */
+    padding-left: 1.5em;
+}
+.blocklyToolboxDiv {
+    width: 9em;
+    left: 1.5em;
+    /* min-height: 720px; */
+    /* position: relative; */
+    /* height: 750px; */
+    color: #575E75;
+    overflow-x: visible;
+    overflow-y: visible;
+    -webkit-tap-highlight-color: transparent;
+    padding: 1em 0 0 0;
+    flex-shrink: 0;
+    box-shadow: 5px 0px 5px #999999;
+    /* z-index: 50; */
+}
+.mobile .blocklyToolboxDiv {
+    box-shadow: 5px 0px 0px #88888800;
+}
+
+/* 主選單 */
+.scratchCategoryMenu {
+    /* width: 5em; */
+    /* background: #FFFFFF; */
+    /* color: #575E75; */
+    font-size: 1.125em;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    /* z-index: 30; */
+}
+/* 主選單按鈕 */
+.scratchCategoryMenuRow {
+    /* width: 100%; */
+    padding: 0.125em 0;
+}
+.scratchCategoryMenuItem {
+    padding: 0.375em 0;
+    cursor: pointer;
+    /* text-align: center; */
+    display: flex;
+    border-radius: 2.5em 0 0 2.5em;
+    /* width: 100%; */
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.scratchCategoryMenuItem.selected {
+    background: grey;
+}
+.scratchCategoryItemBubble {
+    width: 2.0em;
+    height: 2em;
+    /* border: 3px solid; */
+    border-radius: 2.5em;
+    margin: 0 0.225em 0 0.725em;
+    /* text-align: center; */
+}
+.scratchCategoryItemLabel{
+    color: black;
+    /* width: inherit; */
+    padding: 0 0em 0 0.125em;
+    /* margin: 0 1.5em 0 0.225em; */
+    /* padding-top: 0.5em; */
+    /* text-align: left; */
+    line-height: 1.75em;
+    font-size: 1.25em;
+    font-weight: 700;
+    -webkit-text-fill-color: black;
+    -webkit-text-stroke-color: #f5f5f5;
+    -webkit-text-stroke-width: 0.002em;
+    flex-grow: 1;
+    /* align-items: start; */
+    /* text-align: left; */
+}
+.scratchCategoryItemLabel span{
+    align-items: center;
+}
+.scratchCategorySelected {
+    background-color: grey;
+}
+.scratchCategorySelected .scratchCategoryItemLabel{
+    color: #f5f5f5; 
+    -webkit-text-fill-color: #f5f5f5; 
+}
+.color0{
+    background-color: red;
+    border-color: red;
+}
+.color1{
+    background-color: rgb(51, 115, 204);
+    border-color: rgb(51, 115, 204);
+}
+.color2{
+    background-color: rgb(119, 77, 203);
+    border-color: rgb(119, 77, 203);
+}
+.color3{
+    background-color: rgb(189, 66, 189);
+    border-color: rgb(189, 66, 189);
+}
+.color4{
+    background-color: rgb(204, 153, 0);
+    border-color: rgb(204, 153, 0);
+}
+.color5{
+    background-color: rgb(207, 139, 23);
+    border-color: rgb(207, 139, 23);
+}
+.color6{
+    background-color: rgb(46, 142, 184);
+    border-color: rgb(46, 142, 184);
+}
+.color7{
+    background-color: rgb(56, 148, 56);
+    border-color: rgb(56, 148, 56);
+}
+.color8{
+    background-color: rgb(219, 110, 0);
+    border-color: rgb(219, 110, 0);
+}
+.color9{
+    background-color: rgb(255, 77, 106);
+    border-color: rgb(255, 77, 106);
+}
+.color10{
+    background-color: rgb(37, 167, 15);
+    border-color: rgb(37, 167, 15);
+}
+.color11{
+    background-color: rgb(37, 167, 15);
+    border-color: rgb(37, 167, 15);
+}
+.color12{
+    background-color: rgb(37, 167, 15);
+    border-color: rgb(37, 167, 15);
+}
+
+
+/* 次目錄 */
+.scratchMenu1 {
+    /* position:absolute; */
+    /* margin-left: 11em; */
+    background-color: rgba(0,0,0,0.5);
+    /* width: inherit; */
+    /* height: inherit; */
+    flex-grow: 1;
+    flex-shrink:1;
+    flex-basis: 20%;
+    padding: 0 1em 0 0.5em;
+    /* margin-right: 1em; */
+    /* position: fixed; */
+    z-index: 100;
+}
+
+.scratchButtonMenuBox {
+    /* z-index: 20; */
+    margin-top: 0.5em;
+    width: 22.5em;
+    height: 28.75em;
+    background-color: white;
+    /* position: absolute; */
+    /* margin-left: 11em; */
+    /* top: 8em; */
+    /* left: 16.5em;
+    top: 8.5em; */
+    color: #575E75;
+    overflow-x: visible;
+    overflow-y: auto;
+    border-radius: 0 0.25em 0.25em 0;
+    box-shadow: 0.5em 0.5em 0.25em #888888;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.scratchButtonMenuBar{
+    border-bottom: rgb(77, 151, 255) 1px solid;
+    /*border-bottom: #C7DF0D 1px solid;*/
+    width: inherit;
+    height: 2.5em;
+    display: flex;
+    flex-direction: row;
+}
+.scratchButtonMenuBar .closeBar{
+    width: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.scratchButtonMenuBar .categoryBar{
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.875em;
+    color: #666666;
+}
+.scratchButtonMenu {
+    width: inherit;
+    height: 26em;
+    overflow-x: visible;
+    overflow-y: auto;
+}
+.scratchButtonMenuRow {
+    padding-top: 0.5em;
+}
+.scratchButtonMenuItem{
+    cursor: pointer;
+}
+.scratchButtonMenuItem a {
+    display:inline-block;
+}
+.scratchButtonMenuItem.selected {
+    background-color: #BFBFBF;
+}
+/* 視頻區 */
+.scratchMovieboxDiv{
+    margin-left: 11em;
+    padding-top: 96px;
+    padding-bottom: .5em;
+    padding-left: .5em;
+    width: calc(98% - 12em);
+    height: calc(98% - 140px);
+    /* min-width: 25em; */
+    /* min-height: 20em; */
+    flex-shrink: 1;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top:0px;
+    /* display: none; */
+}
+.scratchMovieboxDiv.mobile{
+    padding-left: 0em;
+    width: 90%;
+    /* height: inherit; */
+    min-width: 50vw;
+    min-height: 40vh;
+
+}
+.scratchVideoTitle{
+    min-height: 4.5em;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+    color: #666666;
+}
+.scratchVideoTitle :nth-child(1){
+    min-width: 4.5em;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 0em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.scratchVideoTitle :nth-child(2){
+    flex-grow: 1;
+    flex-shrink: 1;
+    /* flex-basis: 50%; */
+    /* display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center; */
+    min-width: 22.5em;
+    display: inline-block;
+    align-self: center;
+}
+}
+.scratchVideoTitle img{
+    /* width: 100%; */
+    /* height: calc(inherit); */
+}
+.scratchVideo{
+    flex-grow: 1;
+    flex-shrink: 1;
+    /* flex-basis: 60%; */
+
+    max-width: 1138px;
+    max-height: 640px;
+
+    display: flex;
+    position: relative;
+}
+.scratchVideoPoster {
+    max-width: 1138px;
+    max-height: 640px;
+    width: 100%;    
+    position: absolute;
+}
+.scratchVideoPoster img {
+    width: 100%;
+    /* height: 100%; */
+}
+
+#videoframe{
+    left:0px;
+    /* background-color: yellow; */
+    width: 100%;
+    height: calc(var(width) * 9 / 16);
+    /* height: 100%; */
+    border: 0px;
+    /* margin: 0 auto 0 0;
+    padding: 0 auto 0 0px; */
+}
+
+
+.navbar{
+    min-height: 5.25em;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+    box-shadow: 0em 0.5em 0.5em #888888;
+  }
+  .navbar:before{
+    display: table;
+    content: " ";
+  }
+  .navbar-fixed-top{
+    top:0px;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    z-index: 1000;
+  }
+  .nav {
+      position: relative;
+      z-index: 5;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+  }
+  .container {
+      width: 98%;
+      padding-right: 15px;
+      padding-left: 15px;
+      margin-right: auto;
+      margin-left: auto;
+  }
+  .navbar .left{
+    min-width: 2em;
+  }
+  .navbar .middle{
+  }
+  .navbar .right{
+  }
+  #title{
+    background-image: url("./img/title.png");
+    background-repeat: no-repeat;
+    width: 442px;
+    height: 59px;
+    display: block;
+    /* transform: perspective(800px) translateZ(-300px);
+    -webkit-transform: perspective(800px) translateZ(-300px);
+    background-size:contain; */
+  }
+  .footer-fixed-bottom{
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    z-index: 990;
+    /* display: none; */
+  }
+  .copyright{
+    width: 98%;
+    text-align: center;
+    line-height: 30px;
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+  }
+  .main{
+    /* margin-top: 1px; */
+    height: inherit;
+    width: inherit;
+    /* display: block; *//* background-color: yellow; */
+    /* overflow-y: auto; */
+  }
+  .middle img{
+      width: 75%;
+      height: 75%;
+  }
+
+@media screen and (min-width: 1600px) {
+    
+/* .scratchMovieboxDiv {
+    width: inherit;
+    height: inherit;
+} */
+
+}
+
+@media screen and (min-width:1250px) and (max-width: 1599px) {
+
+/* .scratchMovieboxDiv {
+    width: 80%;
+    height: 80%;
+} */
+
+
+    .site-nav-bd img {
+        height: 80%;
+    }
+    .mobile .site-nav-bd img {
+        height: 60%;
+    }
+}
+
+@media screen and (max-width: 1249px) {   
+/* .scratchMovieboxDiv {
+    width: 78%;
+}  */
+    .more{
+        position: absolute;
+        left: 1em;
+        top: 2.5em;
+        width: 2.5em;
+        height: 2.5em;
+    }
+}

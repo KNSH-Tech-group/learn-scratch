@@ -1,0 +1,193 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="118px" height="39px" viewBox="0 0 118 39">
+<defs>
+<g id="______0_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M -1.15 -1
+L -1.15 38.65 117.75 38.65 117.75 -1 -1.15 -1 Z"/>
+</g>
+
+<g id="_____3_Layer0_0_FILL">
+<path fill="#FEAB19" stroke="none" d="
+M 116.85 2
+Q 116.85 0 114.85 0
+L 31.15 0 26.35 5.1 14.2 5.1 9.35 0 2 0
+Q 0 0 0 2
+L 0 30.75
+Q 0 32.75 2 32.75
+L 9.35 32.75 14.2 37.85 26.35 37.85 31.15 32.75 34.7 32.7 34.7 32.65 34.75 32.7 34.9 32.75 114.85 32.75
+Q 116.85 32.75 116.85 30.75
+L 116.85 2 Z"/>
+</g>
+
+<g id="___1_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 21.4 -1.05
+L 10.05 -1.05
+Q 5.25 -1.05 1.85 2.35 -1.55 5.75 -1.55 10.55 -1.55 15.35 1.85 18.75 5.25 22.15 10.05 22.15
+L 15.9 22.15
+Q 16 22.15 16.1 22.15
+L 21.4 22.15
+Q 26.15 22.15 29.6 18.75 33 15.35 33 10.55 33 5.75 29.6 2.35 26.15 -1.05 21.4 -1.05 Z"/>
+</g>
+
+<path id="_____3_Layer0_0_1_STROKES" stroke="#D08A11" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 34.9 32.75
+L 114.85 32.75
+Q 116.85 32.75 116.85 30.75
+L 116.85 2
+Q 116.85 0 114.85 0
+L 31.15 0 26.35 5.1 14.2 5.1 9.35 0 2 0
+Q 0 0 0 2
+L 0 30.75
+Q 0 32.75 2 32.75
+L 9.35 32.75 14.2 37.85 26.35 37.85 31.15 32.75 34.7 32.7 34.75 32.7"/>
+
+<font horiz-adv-x="2048">
+<!--  字体名称: 微軟正黑體 Bold
+供应商 ID: MS  
+© 2016 Microsoft Corporation. All rights reserved.
+http://www.microsoft.com/typography/fonts
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=MS&Name=微軟正黑體&PSName=MicrosoftJhengHeiBold&applanguage=zh_CN-->
+<font-face font-family="Microsoft_JhengHei_Bold" units-per-em="2048" ascent="2203" descent="521"/>
+
+<glyph unicode="等" horiz-adv-x="2048" d="
+M 1923 371
+L 1587 371 1587 74
+Q 1587 -5 1537 -54 1486 -102 1419 -105 1351 -108 1266 -108 1184 -108 1120 -104
+L 1057 70
+Q 1139 66 1346 66 1401 66 1401 117
+L 1401 371 137 371 137 524 1401 524 1401 647 279 647 279 803 934 803 934 928 182 928 182 1085 934 1085 934 1204 1120 1204 1120 1085 1878 1085 1878 928 1120 928 1120 803 1778 803 1778 647 1587 647 1587 524 1923 524 1923 371 Z
+M 1677 1200
+L 1487 1155
+Q 1438 1249 1386 1317
+L 1577 1362
+Q 1643 1268 1677 1200 Z
+M 1919 1393
+L 1286 1393
+Q 1216 1296 1143 1223
+L 967 1296
+Q 1159 1492 1260 1700
+L 1432 1657
+Q 1408 1600 1382 1554
+L 1919 1554 1919 1393 Z
+M 950 84
+L 809 -35
+Q 688 94 496 215
+L 639 334
+Q 802 235 950 84 Z
+M 819 1200
+L 635 1159
+Q 604 1226 537 1325
+L 725 1370
+Q 770 1303 819 1200 Z
+M 997 1393
+L 465 1393
+Q 397 1285 260 1155
+L 115 1266
+Q 318 1446 446 1696
+L 625 1655
+Q 608 1618 573 1554
+L 997 1554 997 1393 Z"/>
+
+<glyph unicode="待" horiz-adv-x="2048" d="
+M 721 1206
+Q 657 1079 539 920
+L 539 -92 350 -92 350 692
+Q 287 629 205 567
+L 117 745
+Q 352 908 567 1294
+L 721 1206 Z
+M 1921 563
+L 1716 563 1716 121
+Q 1716 8 1660 -47 1603 -101 1461 -101 1417 -101 1292 -96
+L 1229 84
+Q 1278 80 1470 80 1534 80 1534 139
+L 1534 563 657 563 657 735 1534 735 1534 866 1716 866 1716 735 1921 735 1921 563 Z
+M 1903 1307
+L 1380 1307 1380 1104 1829 1104 1829 932 756 932 756 1104 1198 1104 1198 1307 707 1307 707 1477 1198 1477 1198 1683 1380 1683 1380 1477 1903 1477 1903 1307 Z
+M 1249 213
+L 1081 111
+Q 973 260 799 408
+L 963 516
+Q 1150 348 1249 213 Z
+M 651 1624
+Q 446 1314 213 1157
+L 121 1317
+Q 325 1456 483 1704
+L 651 1624 Z"/>
+
+<glyph unicode="秒" horiz-adv-x="2048" d="
+M 889 610
+L 756 485
+Q 710 590 621 729
+L 621 -100 442 -100 442 662
+Q 350 468 229 315
+L 121 477
+Q 305 700 438 1022
+L 147 1022 147 1188 442 1188 442 1446
+Q 343 1430 221 1417
+L 152 1581
+Q 484 1604 756 1706
+L 874 1567
+Q 741 1512 621 1485
+L 621 1188 866 1188 866 1022 621 1022 621 977
+Q 795 775 889 610 Z
+M 1235 1419
+Q 1155 1000 995 682
+L 834 772
+Q 988 1067 1069 1477
+L 1235 1419 Z
+M 1485 475
+L 1298 475 1298 1677 1485 1677 1485 475 Z
+M 1892 690
+Q 1652 115 899 -121
+L 801 43
+Q 1486 212 1735 774
+L 1892 690 Z
+M 1944 881
+L 1774 799
+Q 1703 1089 1548 1399
+L 1696 1481
+Q 1862 1180 1944 881 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 1.15,1.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#______0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_____3_Layer0_0_FILL"/>
+
+<use xlink:href="#_____3_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 7.8,4) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="40.2" height="27.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="19.35" baseline-shift="0%" kerning="auto" font-family="Microsoft_JhengHei_Bold" font-weight="bold" font-size="18" fill="#FFFFFF" xml:space="preserve">等待</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 51.5,5.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#___1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 90.35,4) ">
+<clipPath id="Mask_Mask_2">
+<rect x="-2" y="-2" width="22.2" height="27.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="0" y="19.35" baseline-shift="0%" kerning="auto" font-family="Microsoft_JhengHei_Bold" font-weight="bold" font-size="18" fill="#FFFFFF" xml:space="preserve">秒</tspan></text>
+</g>
+</g>
+</g>
+</svg>

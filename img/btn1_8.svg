@@ -1,0 +1,157 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="117px" height="39px" viewBox="0 0 117 39">
+<defs>
+<g id="______7_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M -1 -1
+L -1 38.6 116.1 38.6 116.1 -1 -1 -1 Z"/>
+</g>
+
+<g id="_____0_Layer0_0_FILL">
+<path fill="#4D97FF" stroke="none" d="
+M 113.1 32.5
+Q 115.1 32.5 115.1 30.5
+L 115.1 2
+Q 115.1 0 113.1 0
+L 31.15 0 26.35 5.1 14.2 5.1 9.35 0 2 0
+Q 0 0 0 2
+L 0 30.5
+Q 0 32.5 2 32.5
+L 9.35 32.5 14.2 37.6 26.35 37.6 31.15 32.5 113.1 32.5 Z"/>
+</g>
+
+<g id="___1_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 21.4 -1.05
+L 10.05 -1.05
+Q 5.25 -1.05 1.85 2.35 -1.55 5.75 -1.55 10.55 -1.55 15.35 1.85 18.75 5.25 22.15 10.05 22.15
+L 15.9 22.15
+Q 16 22.15 16.1 22.15
+L 21.4 22.15
+Q 26.15 22.15 29.6 18.75 33 15.35 33 10.55 33 5.75 29.6 2.35 26.15 -1.05 21.4 -1.05 Z"/>
+</g>
+
+<path id="_____0_Layer0_0_1_STROKES" stroke="#2C76DE" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 115.1 30.5
+L 115.1 2
+Q 115.1 0 113.1 0
+L 31.15 0 26.35 5.1 14.2 5.1 9.35 0 2 0
+Q 0 0 0 2
+L 0 30.5
+Q 0 32.5 2 32.5
+L 9.35 32.5 14.2 37.6 26.35 37.6 31.15 32.5 113.1 32.5
+Q 115.1 32.5 115.1 30.5 Z"/>
+
+<font horiz-adv-x="2048">
+<!--  字体名称: 微軟正黑體 Bold
+供应商 ID: MS  
+© 2016 Microsoft Corporation. All rights reserved.
+http://www.microsoft.com/typography/fonts
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=MS&Name=微軟正黑體&PSName=MicrosoftJhengHeiBold&applanguage=zh_CN-->
+<font-face font-family="Microsoft_JhengHei_Bold" units-per-em="2048" ascent="2203" descent="521"/>
+
+<glyph unicode="面" horiz-adv-x="2048" d="
+M 1927 1468
+L 1147 1468
+Q 1114 1382 1047 1262
+L 1808 1262 1808 -106 1628 -106 1628 -12 442 -12 442 -98 264 -98 264 1262 834 1262
+Q 896 1351 942 1468
+L 139 1468 139 1642 1927 1642 1927 1468 Z
+M 1628 152
+L 1628 1098 1411 1098 1411 152 1628 152 Z
+M 1233 152
+L 1233 362 834 362 834 152 1233 152 Z
+M 1233 522
+L 1233 729 834 729 834 522 1233 522 Z
+M 1233 895
+L 1233 1098 834 1098 834 895 1233 895 Z
+M 655 152
+L 655 1098 442 1098 442 152 655 152 Z"/>
+
+<glyph unicode="朝" horiz-adv-x="2048" d="
+M 1866 96
+Q 1866 8 1807 -54 1748 -115 1479 -104
+L 1427 74
+Q 1471 72 1612 72 1646 72 1669 93 1692 115 1692 147
+L 1692 510 1372 510
+Q 1342 130 1176 -119
+L 1016 -23
+Q 1208 247 1208 733
+L 1208 1653 1866 1653 1866 96 Z
+M 1100 205
+L 717 205 717 -106 539 -106 539 205 141 205 141 369 539 369 539 492 236 492 236 1208 537 1208 537 1337 168 1337 168 1501 537 1501 537 1686 717 1686 717 1501 1087 1501 1087 1337 717 1337 717 1208 1022 1208 1022 492 717 492 717 369 1100 369 1100 205 Z
+M 848 651
+L 848 780 412 780 412 651 848 651 Z
+M 848 934
+L 848 1051 412 1051 412 934 848 934 Z
+M 1692 682
+L 1692 1008 1384 1008 1384 682 1692 682 Z
+M 1692 1184
+L 1692 1473 1384 1473 1384 1184 1692 1184 Z"/>
+
+<glyph unicode="度" horiz-adv-x="2048" d="
+M 1923 1389
+L 496 1389 496 717
+Q 496 214 285 -111
+L 131 -8
+Q 313 269 313 717
+L 313 1550 985 1550
+Q 945 1612 907 1657
+L 1106 1700
+Q 1146 1632 1192 1550
+L 1923 1550 1923 1389 Z
+M 1935 68
+L 1880 -106
+Q 1513 -85 1190 47 925 -64 563 -111
+L 479 63
+Q 792 80 991 156 813 267 717 459
+L 627 459 627 621 1702 621 1702 459
+Q 1596 295 1384 156 1617 74 1935 68 Z
+M 1423 895
+L 1423 1038 987 1038 987 895 1423 895 Z
+M 1903 1038
+L 1602 1038 1602 737 811 737 811 1038 565 1038 565 1198 811 1198 811 1319 987 1319 987 1198 1423 1198 1423 1319 1602 1319 1602 1198 1903 1198 1903 1038 Z
+M 1470 459
+L 928 459
+Q 1011 333 1182 233 1377 345 1470 459 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 1,1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#______7_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_____0_Layer0_0_FILL"/>
+
+<use xlink:href="#_____0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 7.8,4) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="40.2" height="27.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="19.35" baseline-shift="0%" kerning="auto" font-family="Microsoft_JhengHei_Bold" font-weight="bold" font-size="18" fill="#FFFFFF" xml:space="preserve">面朝</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 87.9,4) ">
+<clipPath id="Mask_Mask_2">
+<rect x="-2" y="-2" width="22.2" height="27.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="0" y="19.35" baseline-shift="0%" kerning="auto" font-family="Microsoft_JhengHei_Bold" font-weight="bold" font-size="18" fill="#FFFFFF" xml:space="preserve">度</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 50.05,5.4) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#___1_0_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

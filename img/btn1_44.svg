@@ -1,0 +1,93 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="120px" height="31px" viewBox="0 0 120 31">
+<defs>
+<g id="_____5_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M -1.05 -0.95
+L -1.05 30.65 119.1 30.65 119.1 -0.95 -1.05 -0.95 Z"/>
+</g>
+
+<g id="_____0_Layer0_0_FILL">
+<path fill="#38BE49" stroke="none" d="
+M 104.75 29.8
+L 118.7 14.9 104.75 0.05 14.25 0.05 0.25 14.9 14.25 29.8 104.75 29.8 Z"/>
+</g>
+
+<g id="___1____0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 21.4 -1.05
+L 10.05 -1.05
+Q 5.25 -1.05 1.85 2.35 -1.55 5.75 -1.55 10.55 -1.55 15.35 1.85 18.75 5.25 22.15 10.05 22.15
+L 15.9 22.15
+Q 16 22.15 16.1 22.15
+L 21.4 22.15
+Q 26.15 22.15 29.6 18.75 33 15.35 33 10.55 33 5.75 29.6 2.35 26.15 -1.05 21.4 -1.05 Z"/>
+</g>
+
+<path id="_____0_Layer0_0_1_STROKES" stroke="#1A9129" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 118.7 14.9
+L 104.75 0.05 14.25 0.05 0.25 14.9 14.25 29.8 104.75 29.8 118.7 14.9 Z"/>
+
+<path id="___1____0_Layer0_0_1_STROKES" stroke="#1A9129" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 10.05 -1.05
+Q 5.25 -1.05 1.85 2.35 -1.55 5.75 -1.55 10.55 -1.55 15.35 1.85 18.75 5.25 22.15 10.05 22.15
+L 15.9 22.15
+Q 16 22.15 16.1 22.15
+L 21.4 22.15
+Q 26.15 22.15 29.6 18.75 33 15.35 33 10.55 33 5.75 29.6 2.35 26.15 -1.05 21.4 -1.05
+L 10.05 -1.05 Z"/>
+
+<font horiz-adv-x="2048">
+<!--  字体名称: 微軟正黑體 Bold
+供应商 ID: MS  
+© 2016 Microsoft Corporation. All rights reserved.
+http://www.microsoft.com/typography/fonts
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=MS&Name=微軟正黑體&PSName=MicrosoftJhengHeiBold&applanguage=zh_CN-->
+<font-face font-family="HelveticaNeue_Regular" units-per-em="2048" ascent="2203" descent="521"/>
+
+<glyph unicode="&#60;" horiz-adv-x="1531" d="
+M 1245 113
+L 289 577 289 680 1245 1187 1245 992 543 635 543 629 1245 307 1245 113 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 1.05,0.95) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_____5_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -0.25,-0.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_____0_Layer0_0_FILL"/>
+
+<use xlink:href="#_____0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 11.05,4.3) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#___1____0_Layer0_0_FILL"/>
+
+<use xlink:href="#___1____0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 75.5,4.3) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#___1____0_Layer0_0_FILL"/>
+
+<use xlink:href="#___1____0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 53.8,3.1) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="14.35" height="23.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="16.05" baseline-shift="0%" kerning="auto" font-family="HelveticaNeue_Regular" font-size="18" fill="#FFFFFF" xml:space="preserve">&lt;</tspan></text>
+</g>
+</g>
+</g>
+</svg>

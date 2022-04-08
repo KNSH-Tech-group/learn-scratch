@@ -1,0 +1,100 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="120px" height="31px" viewBox="0 0 120 31">
+<defs>
+<g id="_____8_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M -1.05 -0.95
+L -1.05 30.65 119.1 30.65 119.1 -0.95 -1.05 -0.95 Z"/>
+</g>
+
+<g id="_____0_Layer0_0_FILL">
+<path fill="#38BE49" stroke="none" d="
+M 104.75 29.8
+L 118.7 14.9 104.75 0.05 14.25 0.05 0.25 14.9 14.25 29.8 104.75 29.8 Z"/>
+</g>
+
+<g id="_____3_Layer0_0_FILL">
+<path fill="#369235" stroke="none" d="
+M 38 13.85
+L 28 3.2 16.15 3.2 6.15 13.85 16.15 24.5 28 24.5 38 13.85 Z"/>
+</g>
+
+<path id="_____0_Layer0_0_1_STROKES" stroke="#1A9129" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 118.7 14.9
+L 104.75 0.05 14.25 0.05 0.25 14.9 14.25 29.8 104.75 29.8 118.7 14.9 Z"/>
+
+<font horiz-adv-x="2048">
+<!--  字体名称: 微軟正黑體
+供应商 ID: MS  
+©2016 Microsoft Corporation. All rights reserved.
+http://www.microsoft.com/typography/fonts
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=MS&Name=微軟正黑體&PSName=MicrosoftJhengHeiRegular&applanguage=zh_CN-->
+<font-face font-family="Microsoft_JhengHei_Regular" units-per-em="2048" ascent="2203" descent="521"/>
+
+<glyph unicode="或" horiz-adv-x="2048" d="
+M 1913 324
+Q 1901 230 1857 90 1813 -49 1771 -77 1729 -104 1689 -104 1597 -104 1488 18 1379 141 1333 258 1149 62 936 -82
+L 862 -2
+Q 1131 181 1292 377 1181 870 1178 1313
+L 152 1313 152 1413 1171 1413
+Q 1165 1518 1165 1683
+L 1270 1683
+Q 1270 1497 1276 1413
+L 1890 1413 1890 1313 1284 1313
+Q 1303 848 1378 494 1538 724 1669 1110
+L 1767 1075
+Q 1639 670 1415 356 1463 206 1552 104 1641 2 1684 2 1701 2 1717 19 1733 36 1766 144 1798 252 1819 391
+L 1913 324 Z
+M 1767 1511
+L 1683 1444
+Q 1585 1545 1497 1595
+L 1571 1669
+Q 1665 1613 1767 1511 Z
+M 1065 272
+Q 651 164 156 76
+L 131 180
+Q 618 263 1055 377
+L 1065 272 Z
+M 854 614
+L 854 965 385 965 385 614 854 614 Z
+M 961 510
+L 276 510 276 1069 961 1069 961 510 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 1.05,0.95) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_____8_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -0.25,-0.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_____0_Layer0_0_FILL"/>
+
+<use xlink:href="#_____0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 49.15,3.3) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="22.2" height="27.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="19.35" baseline-shift="0%" kerning="auto" font-family="Microsoft_JhengHei_Regular" font-size="18" fill="#FFFFFF" xml:space="preserve">或</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 4.6,1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_____3_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 69.45,1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_____3_Layer0_0_FILL"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

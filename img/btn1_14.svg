@@ -1,0 +1,160 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="56px" height="39px" viewBox="0 0 56 39">
+<defs>
+<g id="______5_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M -1.1 -1
+L -1.1 38.6 55.7 38.6 55.7 -1 -1.1 -1 Z"/>
+</g>
+
+<g id="_____9_Layer0_0_FILL">
+<path fill="#9765FD" stroke="none" d="
+M 54.6 2
+Q 54.6 0 52.6 0
+L 31.15 0 26.35 5.1 14.2 5.1 9.35 0 2 0
+Q 0 0 0 2
+L 0 30.5
+Q 0 32.5 2 32.5
+L 9.35 32.5 14.2 37.6 26.35 37.6 31.15 32.5 52.6 32.5
+Q 54.6 32.5 54.6 30.5
+L 54.6 2 Z"/>
+</g>
+
+<path id="_____9_Layer0_0_1_STROKES" stroke="#6933D7" stroke-width="0.7" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 52.6 0
+L 31.15 0 26.35 5.1 14.2 5.1 9.35 0 2 0
+Q 0 0 0 2
+L 0 30.5
+Q 0 32.5 2 32.5
+L 9.35 32.5 14.2 37.6 26.35 37.6 31.15 32.5 52.6 32.5
+Q 54.6 32.5 54.6 30.5
+L 54.6 2
+Q 54.6 0 52.6 0 Z"/>
+
+<font horiz-adv-x="2048">
+<!--  字体名称: 微軟正黑體 Bold
+供应商 ID: MS  
+© 2016 Microsoft Corporation. All rights reserved.
+http://www.microsoft.com/typography/fonts
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=MS&Name=微軟正黑體&PSName=MicrosoftJhengHeiBold&applanguage=zh_CN-->
+<font-face font-family="Microsoft_JhengHei_Bold" units-per-em="2048" ascent="2203" descent="521"/>
+
+<glyph unicode="顯" horiz-adv-x="2048" d="
+M 379 283
+Q 343 82 266 -121
+L 115 -53
+Q 188 148 219 311
+L 379 283 Z
+M 602 -51
+L 440 -72
+Q 446 74 418 270
+L 563 299
+Q 599 119 602 -51 Z
+M 860 -12
+L 705 -39
+Q 686 136 635 289
+L 780 317
+Q 846 108 860 -12 Z
+M 1917 1485
+L 1616 1485
+Q 1600 1413 1569 1309
+L 1849 1309 1849 279 1386 279 1507 176
+Q 1345 -18 1178 -129
+L 1069 20
+Q 1231 126 1362 279
+L 1178 279 1178 1309 1372 1309
+Q 1401 1387 1425 1485
+L 1118 1485 1118 1649 1917 1649 1917 1485 Z
+M 1675 436
+L 1675 586 1348 586 1348 436 1675 436 Z
+M 1950 20
+L 1827 -119
+Q 1696 1 1540 104
+L 1659 233
+Q 1809 144 1950 20 Z
+M 1675 733
+L 1675 868 1348 868 1348 733 1675 733 Z
+M 1675 1018
+L 1675 1149 1348 1149 1348 1018 1675 1018 Z
+M 1098 96
+L 952 41
+Q 915 171 854 299
+L 997 344
+Q 1064 214 1098 96 Z
+M 1151 406
+L 1014 369
+Q 1001 426 1001 428 864 395 690 369
+L 653 487
+Q 732 560 821 688 728 671 670 666
+L 637 788
+Q 745 920 801 1079
+L 942 1038
+Q 893 922 803 819
+L 903 829
+Q 943 899 977 973
+L 1116 920
+Q 967 645 852 526 922 531 967 547 962 570 946 612
+L 1077 647
+Q 1129 509 1151 406 Z
+M 664 930
+Q 497 663 358 526 396 526 465 539 465 567 446 598
+L 580 635
+Q 628 501 641 389
+L 510 356
+Q 508 377 498 418 309 384 172 377
+L 141 496
+Q 240 571 322 678 246 670 184 670
+L 154 788
+Q 263 899 338 1087
+L 479 1042
+Q 441 945 334 819 374 816 428 827 492 916 524 985
+L 664 930 Z
+M 866 1241
+L 866 1327 412 1327 412 1241 866 1241 Z
+M 866 1442
+L 866 1528 412 1528 412 1442 866 1442 Z
+M 1044 1116
+L 229 1116 229 1653 1044 1653 1044 1116 Z"/>
+
+<glyph unicode="示" horiz-adv-x="2048" d="
+M 1923 989
+L 1130 989 1130 -104 936 -104 936 989 141 989 141 1167 1923 1167 1923 989 Z
+M 1952 154
+L 1796 53
+Q 1556 453 1288 754
+L 1456 842
+Q 1778 460 1952 154 Z
+M 772 762
+Q 578 333 268 51
+L 127 184
+Q 412 433 606 827
+L 772 762 Z
+M 1718 1454
+L 352 1454 352 1636 1718 1636 1718 1454 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 1.1,1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#______5_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_____9_Layer0_0_FILL"/>
+
+<use xlink:href="#_____9_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 7.8,4) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="40.2" height="27.95" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="19.35" baseline-shift="0%" kerning="auto" font-family="Microsoft_JhengHei_Bold" font-weight="bold" font-size="18" fill="#FFFFFF" xml:space="preserve">顯示</tspan></text>
+</g>
+</g>
+</g>
+</svg>
